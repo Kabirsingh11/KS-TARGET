@@ -5,17 +5,41 @@
 ⭕NEW TARGET CLONING FULL WORKING COMMAD‼️
 
 🖤Pkg update
+
+
 🖤Pkg upgraded
+
+
 🖤Pkg install git
+
+
 🖤Pkg insatll python
+
+
 🖤Pkg install python2
+
+
 🖤Pkg install lolcat
+
+
 🖤Pip2 install requests
+
+
 🖤Pip2 install mechanize
+
+
 🖤Pip install bs4
+
+
 🖤git clone https://github.com/Kabirsingh11/KS-TARGET
+
+
 🖤cd KS-TARGET
+
+
 🖤ls
+
+
 🖤python2 KabirTarget.pyc
 
 
